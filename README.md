@@ -14,7 +14,7 @@ Simulator_local
 
 ## 팔레트
 - 현재 사용 가능한 픽셀 색상
-<img src="https://raw.githubusercontent.com/dlams/Simulator_local/main/resource/palette.png">
+<img src="https://raw.githubusercontent.com/dlams/Simulator_local/main/resource/palette.png" width="768" height="288">
 
 
 
